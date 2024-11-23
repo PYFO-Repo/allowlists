@@ -6,6 +6,6 @@
 !
 ! Compiled by @protectyourfamilyonline.co.uk
 !
-@@|lsg.support^$important
-@@|pokerstars.com^$important
-@@|starsaccount.com^$important
+@@||lsg.support^
+@@||pokerstars.com^
+@@||starsaccount.com^
