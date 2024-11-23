@@ -1,0 +1,9 @@
+! Title: Custom 960B1170-BD94-4F9D-8D5B-C5F4D5632A50 Allowlist
+! Description: Custom filter for 960B1170-BD94-4F9D-8D5B-C5F4D5632A50 to allow specific sites. 
+! Homepage: https://protectyourfamilyonline.co.uk
+! License: n/a
+! Last modified: 2024-11-23T11:30:20.644Z
+!
+! Compiled by @protectyourfamilyonline.co.uk
+!
+@@||lsg.support^
